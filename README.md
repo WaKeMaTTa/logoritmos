@@ -1,0 +1,2 @@
+# logoritmos
+Diccionario alternativo.
